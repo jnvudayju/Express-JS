@@ -1,0 +1,21 @@
+A template engine enables us to use static template files in our application. At runtime template enigine repalces variables in a template file with actual values, and transform the template into an html file sent to the client. This approach makes it easier to design ans HTML page.
+Some popular template engines that work with Express are Pug, Mustachea and EJS (Embedded JavaScript Enggines). 
+The Express application generator uses Jade as its default, but it aslo supports several other template engines.
+Handlebars.js is an extension of Mustache and hbs is a ExpressJS view engine for handlebars.js .
+
+MongoDB--> Database management system-->application
+DBMS---> Relational Database m system-->
+foreign key
+table, rows, columns--> MySQL
+Collection, documents, fields--> MongoDB
+[
+    {
+        id : 1
+        name : Uday;
+    }
+    {
+
+    }
+]
+
+String , array--> greedy algorithm--> loop , if else.
